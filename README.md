@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shaik Huda
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machiene Learning, Deep Learning, Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
