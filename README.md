@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shaik Huda
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machiene Learning, Deep Learning, Artificial Intelligence
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in **Data Science**
+- 🌱 I’m currently working on **Machiene Learning** and **Deep Learning** projects with **AI VARIANT**
+- 💞️ I’m looking to collaborate on more Projects in the above mentioned fields
+- 📫 You can reach me @shaikhuda8143@gmail.com
 
 <!---
 Shaikhuda8143/Shaikhuda8143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
